@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5iAuwrkckVO_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Shopping In Store - Discount &amp; Etiquette</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Shopping_In_Store_-_Discount_&amp;_Etiquette_ORG">
+    <organization identifier="Shopping_In_Store_-_Discount_&amp;_Etiquette_ORG">
+      <title>Shopping In Store - Discount &amp; Etiquette</title>
+      <item identifier="Untitled1_SCO" isvisible="true" identifierref="__5iAuwrkckVO_course_id_RES">
+        <title>Shopping In Store - Discount &amp; Etiquette</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5iAuwrkckVO_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6C9oSDpNfjz_P_0_373_1549_1162_DX1902_DY1902_CX1132_CY849.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5jJQep58waj.js" />
+      <file href="html5/data/js/5krjRD6QaU5.js" />
+      <file href="html5/data/js/5oqwiu0h0uf.js" />
+      <file href="html5/data/js/5satTkIhQS0.js" />
+      <file href="html5/data/js/5sZ4BHAUrJj.js" />
+      <file href="html5/data/js/5tMmfXDrrA0.js" />
+      <file href="html5/data/js/5ZFeOstT3Ob.js" />
+      <file href="html5/data/js/63WfiylzfjY.js" />
+      <file href="html5/data/js/6B5lyDkBD65.js" />
+      <file href="html5/data/js/6b7LmiF7pPT.js" />
+      <file href="html5/data/js/6D5OnUWiMpD.js" />
+      <file href="html5/data/js/6eXWLUsdEjl.js" />
+      <file href="html5/data/js/6HCRED13tC3.js" />
+      <file href="html5/data/js/6jcUOrrvSEK.js" />
+      <file href="html5/data/js/6jgPA5Rg2bI.js" />
+      <file href="html5/data/js/6qitRQBRzVv.js" />
+      <file href="html5/data/js/6WqspRk3O8C.js" />
+      <file href="html5/data/js/6ZK2yXVfhyB.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
